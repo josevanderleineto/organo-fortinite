@@ -17,7 +17,7 @@ Projeto criado durante a formamção de React JS da Alura, esse projeto consiste
 <br>
 
 <p align="center">
-  <img alt="projeto Organo" src="https://organo-fortinite.vercel.app/imagens/banner.png" width="100%">
+  <img alt="projeto Organo" src="https://www.vanderleinto.tech/assets/best-lDDR_nMW.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
